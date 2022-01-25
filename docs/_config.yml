@@ -23,7 +23,7 @@ email: quentblast@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   The official site for the indie game QuentBlast.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://www.quentblast.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: quentblast
 github_username:  quentblast
 domain: quentblast.com      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
