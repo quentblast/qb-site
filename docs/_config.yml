@@ -28,8 +28,7 @@ url: "http://www.quentblast.com" # the base hostname & protocol for your site, e
 twitter_username: quentblast
 github_username:  quentblast
 domain: quentblast.com      # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://www.quentblast.com  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: //      # place folder name if the site is served in a subfolder
+
 
 
 # Build settings
