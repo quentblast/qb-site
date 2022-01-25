@@ -32,7 +32,7 @@ baseurl: /jekyll/      # place folder name if the site is served in a subfolder
 
 
 # Build settings
-theme: default
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
