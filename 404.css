@@ -1,0 +1,35 @@
+ .u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: HAMBURGER;
+  font-size: 6rem;
+  margin: 170px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: HAMBURGER;
+  font-size: 1.875rem;
+  width: 392px;
+  margin: 82px auto 60px;
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 1.875rem;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+}@font-face {
+  font-family: 'HAMBURGER';
+  font-style: normal;
+  font-weight: 400;
+  src: url(fonts/HAMBURGER.ttf);
+}
