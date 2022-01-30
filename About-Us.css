@@ -3,108 +3,123 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 676px;
+  min-height: 722px;
 }
 
 .u-section-1 .u-text-1 {
   font-family: HAMBURGER;
-  font-size: 6rem;
   margin: 35px 0 0 auto;
 }
 
 .u-section-1 .u-image-1 {
-  width: 295px;
-  height: 510px;
-  margin: -105px auto 0 0;
+  width: 285px;
+  height: 622px;
+  margin: -17px auto 0 0;
 }
 
 .u-section-1 .u-text-2 {
   font-family: HAMBURGER;
-  font-size: 1.5rem;
-  margin: -370px 0 0 362px;
+  margin: -570px 0 0 auto;
 }
 
 .u-section-1 .u-btn-1 {
+  background-image: none;
   border-style: none none solid;
   font-family: HAMBURGER;
   font-size: 1.5rem;
   font-style: italic;
-  margin: 35px auto;
+  margin: 35px auto -159px;
   padding: 0;
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-sheet-1 {
-    min-height: 667px;
+  .u-section-1 .u-image-1 {
+    width: 210px;
+    height: 459px;
+    margin-top: 104px;
   }
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-top: -389px;
-    margin-left: 184px;
+    margin-top: -533px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-bottom: -563px;
+    margin-top: 149px;
   }
 }
 
 @media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1053px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 114px;
+    height: 249px;
+    margin-top: 602px;
+    margin-left: auto;
+  }
+
   .u-section-1 .u-text-2 {
-    margin-top: -370px;
-    margin-left: 0;
+    margin-top: -821px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 251px;
+    margin-bottom: 22px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1180px;
+    min-height: 1201px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
   }
 
   .u-section-1 .u-image-1 {
-    width: 334px;
-    height: 342px;
-    margin-top: 595px;
-    margin-right: 90px;
-    margin-left: auto;
+    width: 65px;
+    height: 142px;
+    margin-top: 875px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: -902px;
-    margin-left: 90px;
+    margin-top: -977px;
+    margin-left: 0;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 377px;
-    margin-bottom: 31px;
+    margin-top: 194px;
+    margin-bottom: -83px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1221px;
+    min-height: 1463px;
   }
 
   .u-section-1 .u-text-1 {
-    font-size: 3rem;
-    margin-top: 30px;
+    margin-top: 24px;
+    margin-right: auto;
   }
 
   .u-section-1 .u-image-1 {
-    width: 246px;
-    height: 246px;
-    margin-top: 788px;
-    margin-right: 23px;
+    margin-top: 1160px;
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: -1014px;
-    margin-left: 0;
+    margin-top: -1272px;
+    margin-right: -15px;
+    margin-left: auto;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 316px;
-    margin-bottom: -21px;
+    margin-top: 202px;
+    margin-bottom: 34px;
   }
 }@font-face {
   font-family: 'HAMBURGER';
