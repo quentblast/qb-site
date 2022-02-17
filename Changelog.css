@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 742px;
+  min-height: 787px;
 }
 
 .u-section-1 .u-text-1 {
@@ -19,7 +19,7 @@
 
 .u-section-1 .u-text-2 {
   font-family: HAMBURGER;
-  margin: -535px 1px 0 483px;
+  margin: -504px 0 0 auto;
 }
 
 .u-section-1 .u-btn-1 {
@@ -28,13 +28,13 @@
   font-family: HAMBURGER;
   font-size: 1.5rem;
   font-style: italic;
-  margin: 224px auto 46px;
+  margin: 479px auto 6px;
   padding: 0;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 497px;
+    min-height: 509px;
   }
 
   .u-section-1 .u-image-1 {
@@ -45,24 +45,18 @@
 
   .u-section-1 .u-text-2 {
     width: auto;
-    margin-top: -327px;
-    margin-right: 0;
-    margin-left: 284px;
+    margin-top: -342px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 20px;
-    margin-bottom: 30px;
+    margin-top: 302px;
+    margin-bottom: -272px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 598px;
-  }
-
-  .u-section-1 .u-text-1 {
-    margin-top: 43px;
+    min-height: 376px;
   }
 
   .u-section-1 .u-image-1 {
@@ -72,40 +66,67 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 52px;
-    margin-left: 0;
+    margin-top: -167px;
   }
 
   .u-section-1 .u-btn-1 {
-    margin-top: 43px;
-    margin-bottom: 43px;
+    margin-bottom: -655px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 630px;
+    min-height: 418px;
   }
 
   .u-section-1 .u-text-1 {
     width: auto;
-    margin-right: auto;
   }
 
   .u-section-1 .u-image-1 {
     width: 116px;
     height: 186px;
+    margin-top: 85px;
     margin-left: 11px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -231px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 166px;
+    margin-right: 20px;
+    margin-bottom: -866px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 736px;
+    min-height: 525px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 24px;
+    margin-right: auto;
   }
 
   .u-section-1 .u-image-1 {
+    margin-top: 244px;
     margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -356px;
+    margin-right: -15px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-top: 274px;
+    margin-right: 0;
+    margin-bottom: -1283px;
   }
 }@font-face {
   font-family: 'HAMBURGER';
